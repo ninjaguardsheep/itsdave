@@ -1,0 +1,7 @@
+
+site:
+  title: itsdave!
+  description: Dave's Blog
+  base_url: https://itsdave.dnhome.uk
+posts:
+  rss: rss.xml

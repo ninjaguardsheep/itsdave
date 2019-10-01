@@ -1,0 +1,20 @@
+<div id="bottom_navigation">
+<hr>
+<span>
+    {% if page.previous %}
+    <a class="left" href="/{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
+    {% endif %}
+</span>
+<span>
+    <a href="/">{% if page.title == "itsdave!" %}
+    Top
+    {% else %}
+    Home
+    {% endif %}</a>
+</span>
+<span>
+    {% if page.next %}
+    <a class="right" href="/{{ page.next.permalink }}">{{ page.next.title }} →</a>
+    {% endif %}
+<span>
+</div>

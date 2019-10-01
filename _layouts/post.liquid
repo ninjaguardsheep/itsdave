@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include "_head.liquid" %}
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        {% include "_header.liquid" %}
+      </header>
+      <article>
+        <h3>{{ page.title }}</h3>
+        <p>{{ page.published_date | date: "%b %d, %Y" }} | {% include "_reading_time.liquid" %}</p>
+        {{ page.content }}
+      </article>
+      {% include "_bottom_navigation.liquid" %}
+    </div>
+    <footer>
+      {% include "_footer.liquid" %}
+    </footer>
+  </body>
+</html>

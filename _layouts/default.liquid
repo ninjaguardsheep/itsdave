@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include "_head.liquid" %}
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        {% include "_header.liquid" %}
+      </header>
+      {{ page.content }}
+      {% include "_bottom_navigation.liquid" %}
+    </div>
+    <footer>
+      {% include "_footer.liquid" %}
+    </footer>
+  </body>
+</html>

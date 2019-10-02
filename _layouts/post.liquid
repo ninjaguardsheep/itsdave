@@ -11,7 +11,7 @@
       <main>
         <article>
           <h3>{{ page.title }}</h3>
-          <p>{{ page.published_date | date: "%b %d, %Y" }} | {% include "_reading_time.liquid" %}</p>
+          <p><time>{{ page.published_date | date: "%b %d, %Y" }}</time> | {% include "_reading_time.liquid" %}</p>
           {{ page.content }}
         </article>
       </main>

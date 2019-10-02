@@ -1,16 +1,16 @@
-{% assign reading_wpm = 200 %}
-{% if page.collection == "posts" %}
-{% assign word_count = page.content | split: " " | size %}
-{% else %}
-{% assign word_count = post.content | split: " " | size %}
-{% endif %}
-{% assign reading_time = word_count | divided_by: 200 %}
-{% case reading_time %}
-  {% when 0 %}
-    {% assign phrase = "&lt; a minute" %}
-  {% when 1 %}
-    {% assign phrase = "~ a minute" %}
-  {% else %}
-    {% assign phrase = " minutes" | prepend: reading_time %}
-{% endcase %}
+{%- assign reading_wpm = 200 -%}
+{%- if page.collection == "posts" -%}
+{%- assign word_count = page.content | split: " " | size -%}
+{%- else -%}
+{%- assign word_count = post.content | split: " " | size -%}
+{%- endif -%}
+{%- assign reading_time = word_count | divided_by: 200 -%}
+{%- case reading_time -%}
+  {%- when 0 -%}
+    {%- assign phrase = "&lt; a minute" -%}
+  {%- when 1 -%}
+    {%- assign phrase = "~ a minute" -%}
+  {%- else -%}
+    {%- assign phrase = " minutes" | prepend: reading_time -%}
+{%- endcase -%}
 {{ phrase }} to read

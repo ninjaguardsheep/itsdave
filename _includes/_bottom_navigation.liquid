@@ -1,20 +1,22 @@
 <div id="bottom_navigation">
 <hr>
 <span>
-    {% if page.previous %}
+    {%- if page.previous -%}
     <a class="left" href="/{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
-    {% endif %}
+    {%- endif -%}
 </span>
 <span>
-    <a href="/">{% if page.title == "itsdave!" %}
+    <a href="/">
+    {%- if page.title == "itsdave!" -%}
     Top
-    {% else %}
+    {%- else -%}
     Home
-    {% endif %}</a>
+    {%- endif -%}
+    </a>
 </span>
 <span>
-    {% if page.next %}
+    {%- if page.next -%}
     <a class="right" href="/{{ page.next.permalink }}">{{ page.next.title }} →</a>
-    {% endif %}
+    {%- endif -%}
 <span>
 </div>

@@ -8,11 +8,13 @@
       <header>
         {% include "_header.liquid" %}
       </header>
-      <article>
-        <h3>{{ page.title }}</h3>
-        <p>{{ page.published_date | date: "%b %d, %Y" }} | {% include "_reading_time.liquid" %}</p>
-        {{ page.content }}
-      </article>
+      <main>
+        <article>
+          <h3>{{ page.title }}</h3>
+          <p>{{ page.published_date | date: "%b %d, %Y" }} | {% include "_reading_time.liquid" %}</p>
+          {{ page.content }}
+        </article>
+      </main>
       {% include "_bottom_navigation.liquid" %}
     </div>
     <footer>

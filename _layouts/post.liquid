@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% include "_head.liquid" %}
+    {%- include "_head.liquid" -%}
   </head>
   <body>
     <div id="container">
       <header>
-        {% include "_header.liquid" %}
+        {%- include "_header.liquid" -%}
       </header>
       <main>
         <article>
           <h3>{{ page.title }}</h3>
-          <p><time datetime="/{{ page.published_date }}">{{ page.published_date | date: "%b %d, %Y" }}</time> | {% include "_reading_time.liquid" %}</p>
-          </p>
+          <p><time datetime="/{{ page.published_date }}">{{ page.published_date | date: "%b %d, %Y" }}</time> | {%- include "_reading_time.liquid" -%}</p>
           {{ page.content }}
         </article>
       </main>
-      {% include "_bottom_navigation.liquid" %}
+      {%- include "_bottom_navigation.liquid" -%}
     </div>
     <footer>
-      {% include "_footer.liquid" %}
+      {%- include "_footer.liquid" -%}
     </footer>
   </body>
 </html>

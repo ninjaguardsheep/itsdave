@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% include "_head.liquid" %}
+    {%- include "_head.liquid" -%}
   </head>
   <body>
     <div id="container">
       <header>
-        {% include "_header.liquid" %}
+        {%- include "_header.liquid" -%}
       </header>
       <main>
         {{ page.content }}
       </main>
-      {% include "_bottom_navigation.liquid" %}
+      {%- include "_bottom_navigation.liquid" -%}
     </div>
     <footer>
-      {% include "_footer.liquid" %}
+      {%- include "_footer.liquid" -%}
     </footer>
   </body>
 </html>

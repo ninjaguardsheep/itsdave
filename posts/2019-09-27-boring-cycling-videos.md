@@ -4,7 +4,6 @@ layout: post.liquid
 title: Boring Cycling Videos
 description: "The Mrs bought me a GoPro for my 30th, so I set out to film the most uninteresting cycling videos possible."
 tags: [bikes]
-is_draft: false
 ---
 
 So Nat bought me a GoPro Hero 2018 for my 30th.
@@ -26,5 +25,9 @@ I wouldn't want to mount it on my lid, it'd see more but it's a bit bulky and he
 It takes *alright* still photos as well.
 
 [![Gopro photo of Axe Edge, Derbyshire](/assets/img/axe_edge_gopro.png)](/assets/img/axe_edge_gopro_fs.png)
+
+And individual frames of video don't show too much compression artifacting.
+
+[![Still frame from GoPro video of Axe Edge, Derbyshire](/assets/img/axe_edge_gopro_still.png)](/assets/img/axe_edge_gopro_still_fs.png)
 
 Anyway, recently I've been re-editing the videos I have compiled from previous rides down to 5 minutes or less *(less minutes, less boring)* and sticking them on youtube. You can see the results [here](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg).

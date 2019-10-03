@@ -2,6 +2,6 @@
 layout: post.liquid
 
 title: Gearing Up
-description: "The kit I carry on long rides."
+description: ""Being Prepared" for long rides."
 tags: [bikes, audax]
 ---

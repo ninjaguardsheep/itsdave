@@ -147,7 +147,7 @@ footer p {
     font-weight: bold;
 }
 .youtube {
-    padding: 0;
+    padding: 0em;
     margin-top: 0.5em;
     margin-bottom:0.5em;
     display: block;
@@ -158,13 +158,16 @@ footer p {
     margin: auto;
 }
 #bottom_navigation {
-    padding-top: 0.5em;
-    padding-bottom: 5.5em;
+    padding: 0.5em 0em 5.5em 0em;
 }
-#bottom_navigation span {
+#bottom_navigation ul {
+    padding: 0em;
+    margin: 0em;
+}
+#bottom_navigation li {
     display: inline-block;
-    padding-top: 0.5em;
-    width: 33%;
+    padding: 0.5em auto;
+    width: 33.33%;
     text-align: center;
 }
 #bottom_navigation a {

@@ -6,11 +6,9 @@
       <a class="left" href="/{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
       {%- endif -%}
     <li>
-      <a href="/">
-      {%- if page.title == "itsdave!" -%}Top
+      <a href="/">{%- if page.title == "itsdave!" -%}Top
       {%- else -%}Home
-      {%- endif -%}
-      </a>
+      {%- endif -%}</a>
     <li>
       {%- if page.next -%}
       <a class="right" href="/{{ page.next.permalink }}">{{ page.next.title }} →</a>

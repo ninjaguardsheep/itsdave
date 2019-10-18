@@ -7,8 +7,8 @@ layout: default.liquid
 <section>
   <div class="post_preview">
     <h3>{{ post.title }}</h3>
-    <p><time datetime="/{{ post.published_date }}">{{ post.published_date | date: "%b %d, %Y" }}</time> | {% include _reading_time.liquid %}</p>
-    <p>{{ post.description }}</p>
+    <p><time datetime="/{{ post.published_date }}">{{ post.published_date | date: "%b %d, %Y" }}</time> | {%- include _reading_time.liquid -%}
+    <p>{{ post.description }}
     <a href="{{post.permalink}}">Read more →</a>
   </div>
 </section>

@@ -26,7 +26,7 @@ It takes *alright* still photos as well.
 
 [![Gopro photo of Axe Edge, Derbyshire](/assets/img/axe_edge_gopro.png)](/assets/img/axe_edge_gopro_fs.png)
 
-And individual frames of video don't show too much compression artifacting.
+And individual frames of video don't show too many compression artifacts.
 
 [![Still frame from GoPro video of Axe Edge, Derbyshire](/assets/img/axe_edge_gopro_still.png)](/assets/img/axe_edge_gopro_still_fs.png)
 

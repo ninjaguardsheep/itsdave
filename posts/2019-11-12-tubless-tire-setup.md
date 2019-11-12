@@ -2,9 +2,11 @@
 layout: post.liquid
 
 title: Tubless Tire Setup
-description: "The Mrs bought me a GoPro for my 30th, so I set out to film the most uninteresting cycling videos possible."
+description: "Look Mum, no tubes."
 tags: [bikes]
 ---
+
+Having bought a set of pre-taped Tubless Ready wheels for my work in progress gravel bike build, I decided I might as well have a go at setting them up tubeless.
 
 I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding. But, that no longer holds.
 

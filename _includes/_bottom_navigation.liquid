@@ -3,7 +3,7 @@
   <ul>
     <li>
       {%- if page.previous -%}
-      <a class="left" href="/{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
+      <a class="left" href="{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
       {%- endif -%}
     <li>
       <a href="/">{%- if page.title == "itsdave!" -%}Top
@@ -11,7 +11,7 @@
       {%- endif -%}</a>
     <li>
       {%- if page.next -%}
-      <a class="right" href="/{{ page.next.permalink }}">{{ page.next.title }} →</a>
+      <a class="right" href="{{ page.next.permalink }}">{{ page.next.title }} →</a>
       {%- endif -%}
   </ul>
 </div>

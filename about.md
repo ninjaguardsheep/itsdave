@@ -19,4 +19,4 @@ You can find me elsewhere on the internet:
 
 + Cycling on [Strava](https://www.strava.com/athletes/6001450)
 
-+ Occaisional boring cycling videos on [Youtube](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg)
++ Occasional boring cycling videos on [Youtube](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg)

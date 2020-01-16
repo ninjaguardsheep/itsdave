@@ -13,3 +13,10 @@ All content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Int
 
 It's mainly going to be stuff about cycling, computers and cats. So, if none of those things float your boat, close the tab now.
 
+You can find me elsewhere on the internet at:
+
++ [Mastodon](https://mastodon.social/@ninjaguardsheep)
+
++ [Strava](https://www.strava.com/athletes/6001450)
+
++ [Youtube](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg)

@@ -221,9 +221,6 @@ footer p {
     footer {
         background-color: var(--bg-color-dark);
     }
-    .post_preview a {
-        color: var(--accent-color-dark);
-    }
     #bottom_navigation a {
         color: var(--header-color-dark);
     }

@@ -190,6 +190,7 @@ footer p {
 @media (prefers-color-scheme: dark) {
 	body {
         background-color: var(--bg-color-dark);
+	color: var(--color-dark);
     }
     header a {
         color: var(--header-color-dark);

@@ -188,7 +188,7 @@ footer p {
 }
 /* Use dark theme if browser requests it */
 @media (prefers-color-scheme: dark) {
-	body {
+    body {
         background-color: var(--bg-color-dark);
 	color: var(--color-dark);
     }

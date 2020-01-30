@@ -25,7 +25,9 @@ The tyre bead and the bead locks on the rim differ in design slightly from stand
 I got me:
 
 + a pair of Clement Strada USH tyres
+
 + a MASON x HUNT 650B Adventure Sport wheelset
+
 + a bottle of Stans No Tubes sealant
 
 ## Setup

@@ -166,8 +166,8 @@ footer p {
 }
 #bottom_navigation li {
     display: inline-block;
-    padding: 0.5em auto;
-    width: 32%;
+    padding: 0.5em 0;
+    width: 32.8%;
     text-align: center;
 }
 #bottom_navigation a {

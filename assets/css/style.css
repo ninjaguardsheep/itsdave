@@ -109,10 +109,12 @@ header ul {
     list-style-type: none;
     margin: 0;
     padding: 2em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
 header li {
-    display: inline;
-    padding-right: 1em;
+    padding-right: 1.5em;
 }
 header a {
     color: var(--header-color-light);
@@ -163,12 +165,14 @@ footer p {
 #bottom_navigation ul {
     padding: 0em;
     margin: 0em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 #bottom_navigation li {
     display: inline-block;
-    padding: 0.5em 0;
-    width: 32.8%;
     text-align: center;
+    width: 33.33%
 }
 #bottom_navigation a {
     color: var(--header-color-light);

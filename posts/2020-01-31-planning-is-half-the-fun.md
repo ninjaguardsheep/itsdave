@@ -28,6 +28,6 @@ Has Street View that covers most of the UK on public roads. Provides decent info
 
 ## Bing Maps
 
-Bing maps is sorely under rated and nowhere near as shit as the rest of Bing's offering. They have more detailed overhead sattelite imagery than Google for large parts of the UK, especially in rural or wild areas and they have a 1:2500 scale OS layer in the UK!
+Bing maps is sorely under rated and nowhere near as shit as the rest of Bing's offering. They have more detailed overhead sattelite imagery than Google for large parts of the UK, especially in rural or wild areas and they have a 1:2500 scale OS layer!
 
 Good for checking the condition of bridleways and restricted byways from the air and verifing the status of tracks and byways.

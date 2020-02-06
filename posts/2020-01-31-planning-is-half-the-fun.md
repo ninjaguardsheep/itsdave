@@ -7,6 +7,8 @@ tags: [bikes]
 is_draft: true
 ---
 
+![Header Image - A Garmin GPS](/assets/img/2020-01-31-planning-is-half-the-fun.png)
+
 I get a kick out of route planning. 
 Either coming up with my own, or else virtually recce-ing *(not a word?)* other people's.
 

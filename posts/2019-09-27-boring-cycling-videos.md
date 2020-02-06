@@ -6,6 +6,8 @@ description: "The Mrs bought me a GoPro for my 30th, so I set out to film the mo
 tags: [bikes]
 ---
 
+![Header Image - Me up a hill](/assets/img/2019-09-27-boring-cycling-videos.png)
+
 So Nat bought me a GoPro Hero 2018 for my 30th.
 
 I'd been looking for a way to record interesting things I'd seen on rides, but shyed away from action cameras because they're for angry cyclists to film all the rucks they get in on the road.

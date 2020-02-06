@@ -6,6 +6,8 @@ description: "Look Mum, no tubes!"
 tags: [bikes]
 ---
 
+![Header Image - A tubeless tyre](/assets/img/2019-11-12-tubless-tyre-setup.png)
+
 Having bought a set of pre-taped Tubless Ready wheels for my work in progress gravel bike build, I decided I might as well have a go at setting them up tubeless.
 
 I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.

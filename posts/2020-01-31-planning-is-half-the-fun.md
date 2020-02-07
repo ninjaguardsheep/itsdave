@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
 
-title: Planning is Half the Fun
+title: Planning is Half the Fun - itsdave!
 description: "Route planning is half the fun."
 tags: [bikes]
 is_draft: true

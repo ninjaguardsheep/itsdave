@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
 
-title: Tubless Tyre Setup
+title: Tubless Tyre Setup - itsdave!
 description: "Look Mum, no tubes!"
 tags: [bikes]
 ---

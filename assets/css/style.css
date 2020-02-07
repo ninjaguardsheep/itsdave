@@ -12,7 +12,7 @@
     --link-color-dark: #818cab;
     --accent-color-dark: #ff8000;
 }
-/* Inter font, fall back to local sans-serif font if the browser doesn't support woff2 */
+/* Inter font, fall back to web safe sans-serif font if the browser doesn't support woff2 */
 @font-face {
     font-family: "Inter";
     src: local("sans-serif");
@@ -194,7 +194,7 @@ footer p {
 @media (prefers-color-scheme: dark) {
     body {
         background-color: var(--bg-color-dark);
-	color: var(--color-dark);
+        color: var(--color-dark);
     }
     header a {
         color: var(--header-color-dark);

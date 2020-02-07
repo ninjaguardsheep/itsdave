@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
 
-title: Boring Cycling Videos
+title: Boring Cycling Videos - itsdave!
 description: "The Mrs bought me a GoPro for my 30th, so I set out to film the most uninteresting cycling videos possible."
 tags: [bikes]
 ---

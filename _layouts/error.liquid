@@ -9,12 +9,10 @@
         {%- include "_header.liquid" -%}
       </header>
       <main>
-        <article>
-          {%- include "_post_summary.liquid" -%}
+        <section>
           {{ page.content }}
-        </article>
+        </section>
       </main>
-      {%- include "_bottom_navigation.liquid" -%}
     </div>
     <footer>
       {%- include "_footer.liquid" -%}

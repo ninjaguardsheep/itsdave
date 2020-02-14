@@ -1,13 +1,15 @@
 ---
-title: about - itsdave!
+title: about
 layout: default.liquid
 ---
 
+## About The Blog
+
+Hi, I'm Dave, this is my blog.
+
 ![A picture of a numpty up a hill.](/assets/img/mug.png)
 
-Hi, I'm Dave.
-
-This is my blog, it exists because I wanted to play with static site generators. It's currently built with [cobalt.rs](https://cobalt-org.github.io/) because it has *just* enough features for a small blog.
+It exists because I wanted to play with static site generators. It's currently built with [cobalt.rs](https://cobalt-org.github.io/) because it has *just* enough features for a small blog.
 
 All content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated, and the source can be found [here](https://github.com/theoriginalbigbaddave/itsdave).
 

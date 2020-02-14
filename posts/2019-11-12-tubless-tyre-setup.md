@@ -14,7 +14,7 @@ I've tended to discount tubless setups in the past as too much faff and insuffic
 
 But, having read up on this new breed of tubless clincher tyres the system seems to provide the best of both worlds *(for off-road, low pressure applications anyway)*. Self Sealing Punctures™ *(well, maybe)* and no pinch flats, paired with well established troubleshooting kit from familiar tube-and-clincher setups (if you get a puncture that won't seal, you just throw in an inner tube and carry on).
 
-## Tube-what?
+### Tube-what?
 
 In case you are as clueless about tubless as I was about a month ago, traditional tubeless setups have used *tubular* tyres. Basically an inner tube with integrated tread that has to be *glued on to the rim* and sounds like a right faff if you have a problem with it in the field.
 
@@ -22,7 +22,7 @@ New systems using **Tubeless Ready** or **Tubless Compatible** or **Tubless Easy
 
 The tyre bead and the bead locks on the rim differ in design slightly from standard clinchers to provide a more secure seat and a better air seal apparantly.
 
-## Kit
+### Kit
 
 I got me:
 
@@ -32,7 +32,7 @@ I got me:
 
 + a bottle of Stans No Tubes sealant
 
-## Setup
+### Setup
 
 The hunt wheels I bought came pre-taped, and I was able to mount the Clement Strada tyres with just my thumbs and some swearing.
 

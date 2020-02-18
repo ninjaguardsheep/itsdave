@@ -203,10 +203,10 @@ footer p {
         color: var(--header-color-dark);
     }
     h2 {
-        color: var(--header-color-dark);
+        color: var(--accent-color-dark);
     }
     h3 {
-        color: var(--accent-color-dark);
+        color: var(--header-color-dark);
     }
     h4 {
         color: var(--header-color-dark);

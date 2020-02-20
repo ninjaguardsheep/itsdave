@@ -6,13 +6,13 @@ description: "Look Mum, no tubes!"
 tags: [bikes]
 ---
 
-![Header Image - A tubeless tyre](/assets/img/posts/2019-11-12-tubless-tyre-setup/header.png)
-
 Having bought a set of pre-taped Tubless Ready wheels for my work in progress gravel bike build, I decided I might as well have a go at setting them up tubeless.
 
 I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.
 
 But, having read up on this new breed of tubless clincher tyres the system seems to provide the best of both worlds *(for off-road, low pressure applications anyway)*. Self Sealing Punctures™ *(well, maybe)* and no pinch flats, paired with well established troubleshooting kit from familiar tube-and-clincher setups (if you get a puncture that won't seal, you just throw in an inner tube and carry on).
+
+---
 
 ### Tube-what?
 
@@ -21,6 +21,8 @@ In case you are as clueless about tubless as I was about a month ago, traditiona
 New systems using **Tubeless Ready** or **Tubless Compatible** or **Tubless Easy** or **UST** *(depending on which set of marketing wankers you're buying them from)* branded rims and tyres use a sealing tape on the inner surface of the rim (to make it airtight) and what is to all intents and purposes, a clincher tyre. Along with a liquid latex sealant to plug any gaps and make the whole thing airtight.
 
 The tyre bead and the bead locks on the rim differ in design slightly from standard clinchers to provide a more secure seat and a better air seal apparantly.
+
+---
 
 ### Kit
 
@@ -31,6 +33,8 @@ I got me:
 + a MASON x HUNT 650B Adventure Sport wheelset
 
 + a bottle of Stans No Tubes sealant
+
+---
 
 ### Setup
 

@@ -6,8 +6,6 @@ description: "The Mrs bought me a GoPro for my 30th, so I set out to film the mo
 tags: [bikes]
 ---
 
-![Header Image - Me up a hill](/assets/img/posts/2019-09-27-boring-cycling-videos/header.png)
-
 So Nat bought me a GoPro Hero 2018 for my 30th.
 
 I'd been looking for a way to record interesting things I'd seen on rides, but shyed away from action cameras because they're for angry cyclists to film all the rucks they get in on the road.
@@ -20,9 +18,13 @@ But, after rushing out to get a mount and a faster SD card *(turns out [not all 
 
 To be fair its hard to make The Dales look rubbish, but I was impressed by the quality of the footage I returned with and how little ride time was taken up faffing with the camera.
 
+---
+
 The battery life is *meh* I get about 2 hours shooting time per battery, but they're dinky so spares don't take up much room in my top tube bag *(and I bought some well-reviewed knock offs from Amazon for around half the price of the GoPro branded ones)* and can fit about 2 hours of 1080p/60fps footage on a 32GB SD card.
 
-I wouldn't want to mount it on my lid, it'd see more but it's a bit bulky and heavy, plus you look a berk. 
+I wouldn't want to mount it on my lid, it'd see more but it's a bit bulky and heavy, plus you look a berk.
+
+---
 
 It takes *alright* still photos as well.
 
@@ -31,5 +33,7 @@ It takes *alright* still photos as well.
 And individual frames of video don't show too many compression artifacts.
 
 [![Still frame from GoPro video of Axe Edge, Derbyshire](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still.png)](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still_fs.png)
+
+---
 
 Anyway, recently I've been re-editing the videos I have compiled from previous rides down to 5 minutes or less *(less minutes, less boring)* and sticking them on youtube. You can see the results [here](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg).

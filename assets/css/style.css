@@ -191,13 +191,13 @@ footer p {
         width: 100%;
     }
     .round {
-        width: 22.5em;
+        width: 60vw;
     }
     .youtube {
         width: 100%;
     }
 }
-@media only screen and (max-width: 22.5em) {
+@media only screen and (max-width: 20em) {
     .round {
         width: 100%;
     }

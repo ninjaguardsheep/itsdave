@@ -145,7 +145,7 @@ footer p {
 }
 .pp_img_round {
     border-radius: 50%;
-    height: 8em;
+    width: 8em;
     margin: 0 0 0 auto;
 }
 .pp_link {
@@ -195,13 +195,8 @@ footer p {
     img {
         width: 100%;
     }
-    .pp {
-        flex-wrap: wrap;
-    }
     .pp_img_round {
-        margin: 2em auto 0 auto;
-        padding: 0 2em 0 2em;
-        width: 8em;
+        display: none;
     }
     .img_round {
         width: 60vw;

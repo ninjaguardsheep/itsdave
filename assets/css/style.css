@@ -101,6 +101,8 @@ p {
 hr {
     border-top: 0.1em solid var(--color-light);
     border-bottom: none;
+    margin: 0;
+    padding: 0;
 }
 header ul {
     list-style-type: none;
@@ -137,8 +139,7 @@ footer p {
 }
 .pp {
     padding: 0em;
-    margin-left: 0em;
-    margin-bottom: 2em;
+    margin: 0 0 2em 0;
     display: flex;
     align-items: center;
 }
@@ -181,7 +182,7 @@ footer p {
     padding: 0.5em 0em 5.5em 0em;
 }
 #bottom_navigation ul {
-    padding: 0em;
+    padding: 0.5em 0 0 0 ;
     margin: 0em;
     display: flex;
     flex-wrap: wrap;

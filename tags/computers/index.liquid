@@ -5,7 +5,7 @@ layout: default.liquid
 
 {%- assign index_tag = "computers" -%}
 {%- for post in collections.posts.pages -%}
-<section>
+<section class="pp">
 {% if post.tags contains index_tag %}
   {% include "_post_preview.liquid" %}
 {% endif %}

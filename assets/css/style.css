@@ -62,7 +62,6 @@ h2 {
     font-size: 1.75rem;
     font-weight: bold;
     font-style: italic;
-    padding: 0;
     margin: 0.5em auto;
 }
 h3 {
@@ -70,7 +69,6 @@ h3 {
     font-size: 1.75rem;
     font-weight: bold;
     font-style: italic;
-    padding: 0;
     margin: 0.5em auto;
 }
 h4 {
@@ -78,12 +76,10 @@ h4 {
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
-    padding: 0;
     margin: 0.5em auto;
 }
 img {
     display: block;
-    padding: 0;
     margin: 0.5em auto;
 }
 a {
@@ -101,12 +97,10 @@ p {
 hr {
     border-top: 0.1em solid var(--color-light);
     border-bottom: none;
-    margin: 0;
-    padding: 0;
+    width: 1.5em;
 }
 header ul {
     list-style-type: none;
-    margin: 0;
     padding: 2em 0;
     display: flex;
     flex-wrap: wrap;
@@ -121,9 +115,9 @@ header a {
     font-weight: bold;
     font-style: italic;
 }
-article hr {
-    width: 1.5em;
-    margin: 1.5em auto;
+header hr {
+    width: auto;
+    margin: 0;
 }
 footer {
     background-color: var(--bg-color-light);
@@ -138,7 +132,6 @@ footer p {
     font-size: 0.7rem;
 }
 .pp {
-    padding: 0em;
     margin: 0 0 2em 0;
     display: flex;
     align-items: center;
@@ -148,12 +141,12 @@ footer p {
 }
 .pp_flex_right {
     flex-grow: 1;
+    padding: auto;
 }
 .pp_img_round {
     border-radius: 50%;
     height: 8em;
     margin: 0 0 0 auto;
-    padding: 0;
 }
 .pp_link {
     color: var(--accent-color-light);
@@ -163,14 +156,8 @@ footer p {
     border-radius: 50%;
     margin: 1.5em auto;
 }
-.stubby {
-    width: 1.5em;
-    margin: 1.5em auto
-}
 .youtube {
-    padding: 0em;
-    margin-top: 0.5em;
-    margin-bottom:0.5em;
+    margin: 0.5em 0;
     display: block;
 }
 #container {
@@ -182,8 +169,7 @@ footer p {
     padding: 0.5em 0em 5.5em 0em;
 }
 #bottom_navigation ul {
-    padding: 0.5em 0 0 0 ;
-    margin: 0em;
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -196,6 +182,10 @@ footer p {
 #bottom_navigation a {
     color: var(--header-color-light);
     font-weight: bold;
+}
+#bottom_navigation hr {
+    width: auto;
+    margin: 0;
 }
 /* Scale elements on smaller screens to prevent side-scrolling */
 @media only screen and (max-width: 40em) {
@@ -245,14 +235,8 @@ footer p {
     h4 {
         color: var(--header-color-dark);
     }
-    p {
-        color: var(--color-dark);
-    }
     a {
         color: var(--link-color-dark);
-    }
-    hr {
-        border-top: 0.1em solid var(--color-dark);
     }
     footer {
         background-color: var(--bg-color-dark);

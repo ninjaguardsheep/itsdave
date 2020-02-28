@@ -135,16 +135,22 @@ footer a {
 footer p {
     font-size: 0.7rem;
 }
-.post_preview {
+.pp {
     padding: 0em;
     margin-left: 0em;
     margin-bottom: 2em;
+    display: flex;
 }
-.post_preview_link {
+.pp_img_round {
+    border-radius: 50%;
+    margin: auto;
+    height:auto;
+}
+.pp_link {
     color: var(--accent-color-light);
     font-weight: bold;
 }
-.round {
+.img_round {
     border-radius: 50%;
     margin: 1.5em auto;
 }

@@ -50,6 +50,6 @@ So I added more sealant to the deflated tyre, pumped it back up, waggled it arou
 
 Success! I think.
 
-### Edit 2020-03-27
+### Edit - 2020-03-27
 
 Having run this setup for a few months, I've posted my thoughts [here](/posts/2020-03-27-tubeless-tyres-revisited.html).

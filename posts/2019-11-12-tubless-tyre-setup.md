@@ -16,11 +16,11 @@ But, having read up on this new breed of tubless clincher tyres the system seems
 
 ### Tube-what?
 
-In case you are as clueless about tubless as I was about a month ago, traditional tubeless setups have used *tubular* tyres. Basically an inner tube with integrated tread that has to be *glued on to the rim* and sounds like a right faff if you have a problem with it in the field.
+In case you are as clueless about tubeless as I was about a month ago, traditional tubeless setups have used *tubular* tyres. Basically an inner tube with integrated tread that has to be *glued on to the rim* and sounds like a right faff if you have a problem with it in the field.
 
-New systems using **Tubeless Ready** or **Tubless Compatible** or **Tubless Easy** or **UST** *(depending on which set of marketing wankers you're buying them from)* branded rims and tyres use a sealing tape on the inner surface of the rim (to make it airtight) and what is to all intents and purposes, a clincher tyre. Along with a liquid latex sealant to plug any gaps and make the whole thing airtight.
+New systems using **Tubeless Ready** or **Tubeless Compatible** or **Tubeless Easy** or **UST** *(depending on which set of marketing wankers you're buying them from)* branded rims and tyres use a sealing tape on the inner surface of the rim (to make it airtight) and what is to all intents and purposes, a clincher tyre. Along with a liquid latex sealant to plug any gaps and make the whole thing airtight.
 
-The tyre bead and the bead locks on the rim differ in design slightly from standard clinchers to provide a more secure seat and a better air seal apparantly.
+The tyre bead and the bead locks on the rim differ in design slightly from standard clinchers to provide a more secure seat and a better air seal apparently.
 
 ---
 
@@ -48,4 +48,8 @@ After leaving them over night the front stayed up, but the rear went down.
 
 So I added more sealant to the deflated tyre, pumped it back up, waggled it around some more and it was still inflated when I got back from work.
 
-Sucess! I think.
+Success! I think.
+
+### Edit 2020-03-27
+
+Having run this setup for a few months, I've posted my thoughts [here](/posts/2020-03-27-tubeless-tyres-revisited.html).

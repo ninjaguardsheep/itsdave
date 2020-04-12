@@ -49,9 +49,3 @@ After leaving them over night the front stayed up, but the rear went down.
 So I added more sealant to the deflated tyre, pumped it back up, waggled it around some more and it was still inflated when I got back from work.
 
 Success! I think.
-
----
-
-### Edit - 2020-03-27
-
-Having run this setup for a few months, I've posted my thoughts [here](/posts/2020-03-27-tubeless-tyres-revisited.html).

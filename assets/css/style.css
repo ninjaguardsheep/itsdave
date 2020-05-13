@@ -1,16 +1,21 @@
 :root {
     /* Light theme (default) */
-    --bg-color-light: #fff;
-    --header-color-light: #222;
-    --color-light: #222;
-    --link-color-light: #536390;
-    --accent-color-light: #ff9933;
-    /* Dark theme */
-    --bg-color-dark: #292a2d;
-    --header-color-dark: #a9a9b3;
-    --color-dark: #a9a9b3;
-    --link-color-dark: #818cab;
-    --accent-color-dark: #ff8000;
+    --bg-color: #fff;
+    --header-color: #222;
+    --color: #222;
+    --link-color: #536390;
+    --accent-color: #ff9933;
+}
+/* Use dark theme if browser requests it */
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Dark theme */
+        --bg-color: #292a2d;
+        --header-color: #a9a9b3;
+        --color: #a9a9b3;
+        --link-color: #818cab;
+        --accent-color: #ff8000;
+    }
 }
 /* Inter font, fall back to web safe sans-serif font if the browser doesn't support woff2 */
 @font-face {
@@ -46,34 +51,34 @@
     font-style: italic;
 }
 body {
-    background-color: var(--bg-color-light);
+    background-color: var(--bg-color);
     font-size: 100%;
     font-family: Inter;
-    color: var(--color-light);
+    color: var(--color);
 }
 h1 {
-    color: var(--header-color-light);
+    color: var(--header-color);
     font-size: 2rem;
     font-weight: bold;
     font-style: italic;
 }
 h2 {
-    color: var(--accent-color-light);
+    color: var(--accent-color);
     font-size: 1.75rem;
     font-weight: bold;
     font-style: italic;
     margin: 0.5em auto;
 }
 h3 {
-    color: var(--header-color-light);
-    font-size: 1.75rem;
+    color: var(--header-color);
+    font-size: 1.35rem;
     font-weight: bold;
     font-style: italic;
     margin: 0.5em auto;
 }
 h4 {
-    color: var(--header-color-light);
-    font-size: 1.5rem;
+    color: var(--header-color);
+    font-size: 1rem;
     font-weight: bold;
     font-style: italic;
     margin: 0.5em auto;
@@ -84,44 +89,24 @@ img {
 }
 a {
     font-size: 0.9rem;
-    color: var(--link-color-light);
+    color: var(--link-color);
     text-decoration: none;
 }
 a:hover {
     text-decoration: underline;
 }
 p {
-    color: var(--color-light);
+    color: var(--color);
     font-size: 0.9rem;
     line-height: 1.4rem;
 }
 hr {
-    border-top: 1px solid var(--color-light);
+    border-top: 1px solid var(--color);
     border-bottom: none;
     width: 1.5em;
 }
-header ul {
-    list-style-type: none;
-    padding: 2em 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-}
-header li {
-    padding-right: 1.5em;
-}
-header a {
-    color: var(--header-color-light);
-    font-size: 1.75rem;
-    font-weight: bold;
-    font-style: italic;
-}
-header hr {
-    width: auto;
-    margin: 0;
-}
 footer {
-    background-color: var(--bg-color-light);
+    background-color: var(--bg-color);
     position: fixed;
     bottom: 0;
     padding: 0.25em 0.5em;
@@ -150,7 +135,7 @@ footer p {
     margin: 0 0 0 auto;
 }
 .pp_link {
-    color: var(--accent-color-light);
+    color: var(--accent-color);
     font-weight: bold;
 }
 .img_round {
@@ -181,10 +166,30 @@ footer p {
     width: 33.33%
 }
 #bottom_navigation a {
-    color: var(--header-color-light);
+    color: var(--header-color);
     font-weight: bold;
 }
 #bottom_navigation hr {
+    width: auto;
+    margin: 0;
+}
+#top_navigation ul {
+    list-style-type: none;
+    padding: 2em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+#top_navigation li {
+    padding-right: 1.5em;
+}
+#top_navigation a {
+    color: var(--header-color);
+    font-size: 1.75rem;
+    font-weight: bold;
+    font-style: italic;
+}
+#top_navigation hr {
     width: auto;
     margin: 0;
 }
@@ -213,43 +218,4 @@ footer p {
         width: 100%;
     }
 }
-/* Use dark theme if browser requests it */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: var(--bg-color-dark);
-        color: var(--color-dark);
-    }
-    header a {
-        color: var(--header-color-dark);
-    }
-    h1 {
-        color: var(--header-color-dark);
-    }
-    h2 {
-        color: var(--accent-color-dark);
-    }
-    h3 {
-        color: var(--header-color-dark);
-    }
-    h4 {
-        color: var(--header-color-dark);
-    }
-    a {
-        color: var(--link-color-dark);
-    }
-    footer {
-        background-color: var(--bg-color-dark);
-    }
-    hr {
-        border-top: 1px solid var(--color-dark);
-    }
-    p {
-        color: var(--color-dark);
-    }
-    .pp_link {
-        color: var(--accent-color-dark);
-    }
-    #bottom_navigation a {
-        color: var(--header-color-dark);
-    }
-}
+

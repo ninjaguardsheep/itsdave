@@ -8,17 +8,17 @@ tags: [bikes]
 
 Having bought a set of pre-taped Tubless Ready wheels for my work in progress gravel bike build, I decided I might as well have a go at setting them up tubeless.
 
-I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.
+I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy ↗](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.
 
-But, having read up on this new breed of tubless clincher tyres the system seems to provide the best of both worlds *(for off-road, low pressure applications anyway)*. Self Sealing Punctures™ *(well, maybe)* and no pinch flats, paired with well established troubleshooting kit from familiar tube-and-clincher setups (if you get a puncture that won't seal, you just throw in an inner tube and carry on).
+But, having read up on this new breed of tubless clincher tyres the system seems to provide the best of both worlds _(for off-road, low pressure applications anyway)_. Self Sealing Punctures™ _(well, maybe)_ and no pinch flats, paired with well established troubleshooting kit from familiar tube-and-clincher setups (if you get a puncture that won't seal, you just throw in an inner tube and carry on).
 
 ---
 
 ### Tube-what?
 
-In case you are as clueless about tubeless as I was about a month ago, traditional tubeless setups have used *tubular* tyres. Basically an inner tube with integrated tread that has to be *glued on to the rim* and sounds like a right faff if you have a problem with it in the field.
+In case you are as clueless about tubeless as I was about a month ago, traditional tubeless setups have used _tubular_ tyres. Basically an inner tube with integrated tread that has to be _glued on to the rim_ and sounds like a right faff if you have a problem with it in the field.
 
-New systems using **Tubeless Ready** or **Tubeless Compatible** or **Tubeless Easy** or **UST** *(depending on which set of marketing wankers you're buying them from)* branded rims and tyres use a sealing tape on the inner surface of the rim (to make it airtight) and what is to all intents and purposes, a clincher tyre. Along with a liquid latex sealant to plug any gaps and make the whole thing airtight.
+New systems using __Tubeless Ready__ or __Tubeless Compatible__ or __Tubeless Easy__ or __UST__ _(depending on which set of marketing wankers you're buying them from)_ branded rims and tyres use a sealing tape on the inner surface of the rim (to make it airtight) and what is to all intents and purposes, a clincher tyre. Along with a liquid latex sealant to plug any gaps and make the whole thing airtight.
 
 The tyre bead and the bead locks on the rim differ in design slightly from standard clinchers to provide a more secure seat and a better air seal apparently.
 

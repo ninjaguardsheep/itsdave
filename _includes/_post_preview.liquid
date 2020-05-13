@@ -1,11 +1,11 @@
 <section class="pp">
-  <div class="pp_flex-left">
-    <h2>{{ post.title }}</h2>
-    <p><time datetime="{{ post.published_date | date: "%F" }}">{{ post.published_date | date: "%b %d, %Y" }}</time> | {% include _reading_time.liquid %} | Category: {% for tag in post.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a>{%- endfor -%}</p>
-    <p>{{ post.description }}</p>
-    <a class="pp_link" href="/{{post.permalink}}">Read more →</a>
-  </div>
-  <div class="pp_flex_right">
-    <img class="pp_img_round" src="/assets/img/posts/{{ post.published_date | date: "%Y-%m-%d-" }}{{ post.slug }}/header.png">
-  </div>
+<div class="pp_flex-left">
+<h2>{{ post.title }}</h2>
+<p><time datetime="{{ post.published_date | date: "%F" }}">{{ post.published_date | date: "%b %d, %Y" }}</time> | {% include _reading_time.liquid %} | Category: {% for tag in post.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a>{%- endfor -%}</p>
+<p>{{ post.description }}</p>
+<a class="pp_link" href="/{{post.permalink}}">Read more →</a>
+</div>
+<div class="pp_flex_right">
+<img class="pp_img_round" src="/assets/img/posts/{{ post.published_date | date: "%Y-%m-%d-" }}{{ post.slug }}/header.png">
+</div>
 </section>

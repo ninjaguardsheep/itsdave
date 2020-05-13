@@ -1,24 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {%- include "_head.liquid" -%}
-  </head>
-  <body>
-    <div id="container">
-      <header>
-        {%- include "_header.liquid" -%}
-      </header>
-      <main>
-        <article>
-          {%- include "_post_summary.liquid" -%}
-          {%- include "_header_image.liquid" -%}
-          {{ page.content }}
-        </article>
-      </main>
-      {%- include "_bottom_navigation.liquid" -%}
-    </div>
-    <footer>
-      {%- include "_footer.liquid" -%}
-    </footer>
-  </body>
+{% include "_head.liquid" %}
+<body>
+<div id="container">
+{% include "_header.liquid" %}
+<main>
+<article>
+{% include "_post_summary.liquid" %}
+{% include "_header_image.liquid" %}
+{{ page.content }}
+</article>
+</main>
+{% include "_bottom_navigation.liquid" %}
+</div>
+{% include "_footer.liquid" %}
+</body>
 </html>

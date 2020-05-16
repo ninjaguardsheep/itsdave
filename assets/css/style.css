@@ -130,8 +130,6 @@ footer p {
     padding: auto;
 }
 .pp_img_round {
-    border-radius: 50%;
-    width: 8em;
     margin: 0 0 0 auto;
 }
 .pp_link {
@@ -139,7 +137,6 @@ footer p {
     font-weight: bold;
 }
 .img_round {
-    border-radius: 50%;
     margin: 1.5em auto;
 }
 .youtube {

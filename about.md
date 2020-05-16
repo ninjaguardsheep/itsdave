@@ -7,7 +7,7 @@ layout: default.liquid
 
 Hi, I'm Dave, this is my blog.
 
-<img class="img_round" src="/assets/img/about.png">
+<img class="img_round" src="/assets/img/about.png" />
 
 It exists because I wanted to play with static site generators. It's currently built with [cobalt.rs ↗](https://cobalt-org.github.io/) because it has *just* enough features for a small blog and the documentation for [liquid ↗](https://shopify.github.io/liquid/) (the templating language it uses) didn't make me want to kill myself.
 

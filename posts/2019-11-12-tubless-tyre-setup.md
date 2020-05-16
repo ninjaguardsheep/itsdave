@@ -38,7 +38,7 @@ I got me:
 
 ### Setup
 
-The hunt wheels I bought came pre-taped, and I was able to mount the Clement Strada tyres with just my thumbs and some swearing.
+The Hunt wheels I bought came pre-taped, and I was able to mount the Clement Strada tyres with just my thumbs and some swearing.
 
 I removed the valve cores, added the recommended amount of sealant and attacked with my cheap track pump.
 

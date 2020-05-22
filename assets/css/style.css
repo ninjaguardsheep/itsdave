@@ -1,21 +1,9 @@
 :root {
-    /* Light theme (default) */
-    --bg-color: #fff;
-    --header-color: #222;
-    --color: #222;
-    --link-color: #536390;
-    --accent-color: #ff9933;
-}
-/* Use dark theme if browser requests it */
-@media (prefers-color-scheme: dark) {
-    :root {
-        /* Dark theme */
-        --bg-color: #292a2d;
-        --header-color: #a9a9b3;
-        --color: #a9a9b3;
-        --link-color: #818cab;
-        --accent-color: #ff8000;
-    }
+    --bg-color: #292a2d;
+    --header-color: #a9a9b3;
+    --color: #a9a9b3;
+    --link-color: #818cab;
+    --accent-color: #ff8000;
 }
 /* Inter font, fall back to web safe sans-serif font if the browser doesn't support woff2 */
 @font-face {
@@ -84,6 +72,7 @@ h4 {
     margin: 0.5em auto;
 }
 img {
+    width: 100%;
     display: block;
     margin: 0.5em auto;
 }
@@ -101,7 +90,7 @@ p {
     line-height: 1.4rem;
 }
 hr {
-    border-top: 1px solid var(--color);
+    border-top: 2px solid var(--color);
     border-bottom: none;
     width: 1.5em;
 }
@@ -130,6 +119,9 @@ footer p {
     padding: auto;
 }
 .pp_img_round {
+    width: 128px;
+    border: 2px solid var(--color);
+    border-radius: 100%;
     margin: 0 0 0 auto;
 }
 .pp_link {
@@ -137,9 +129,13 @@ footer p {
     font-weight: bold;
 }
 .img_round {
+    width: 360px;
+    border: 2px solid var(--color);
+    border-radius: 100%;
     margin: 1.5em auto;
 }
 .youtube {
+    width: 100%;
     margin: 0.5em 0;
     display: block;
 }
@@ -195,22 +191,13 @@ footer p {
     #container {
         width: 96%;
     }
-    img {
-        width: 100%;
-    }
-    .img_round {
-        width: 54vw;
-    }
-    .youtube {
-        width: 100%;
-    }
 }
-@media only screen and (max-width: 35em) {
+@media only screen and (max-width: 33em) {
     .pp_img_round {
         display: none;
     }
 }
-@media only screen and (max-width: 20em) {
+@media only screen and (max-width: 24.5em) {
     .img_round {
         width: 100%;
     }

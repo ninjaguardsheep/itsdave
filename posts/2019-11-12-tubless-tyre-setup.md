@@ -8,7 +8,7 @@ tags: [bikes]
 
 Having bought a set of pre-taped Tubless Ready wheels for my work in progress gravel bike build, I decided I might as well have a go at setting them up tubeless.
 
-I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy ↗](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.
+I've tended to discount tubless setups in the past as too much faff and insufficiently [Murphy](https://en.wikipedia.org/wiki/Murphy's_law) proof for general and endurance riding.
 
 But, having read up on this new breed of tubless clincher tyres the system seems to provide the best of both worlds _(for off-road, low pressure applications anyway)_. Self Sealing Punctures™ _(well, maybe)_ and no pinch flats, paired with well established troubleshooting kit from familiar tube-and-clincher setups (if you get a puncture that won't seal, you just throw in an inner tube and carry on).
 

@@ -10,9 +10,9 @@ So Nat bought me a GoPro Hero 2018 for my 30th.
 
 I'd been looking for a way to record interesting things I'd seen on rides, but shyed away from action cameras because they're for angry cyclists to film all the rucks they get in on the road.
 
-I'd been polling around with my 15 year old compact digital camera in a jersey pocket on rides _(its a [Fujifilm Finepix F10 ↗](https://en.wikipedia.org/wiki/Fujifilm_FinePix_F_series), and the photos it takes still hold up pretty well)_, but I'd inevitably get tired and forget or not be arsed to take photos as I went around.
+I'd been polling around with my 15 year old compact digital camera in a jersey pocket on rides _(its a [Fujifilm Finepix F10](https://en.wikipedia.org/wiki/Fujifilm_FinePix_F_series), and the photos it takes still hold up pretty well)_, but I'd inevitably get tired and forget or not be arsed to take photos as I went around.
 
-But, after rushing out to get a mount and a faster SD card _(turns out [not all class 10 cards are created equal ↗](https://gopro.com/en/us/news/choosing-a-memory-card-for-your-gopro), and if you want to shoot at 60fps or silly resolutions you need something fast)_ before we went away to The Dales. I gave riding with the camera bar mounted a go, and got some great results.
+But, after rushing out to get a mount and a faster SD card _(turns out [not all class 10 cards are created equal](https://gopro.com/en/us/news/choosing-a-memory-card-for-your-gopro), and if you want to shoot at 60fps or silly resolutions you need something fast)_ before we went away to The Dales. I gave riding with the camera bar mounted a go, and got some great results.
 
 <iframe class="youtube" width="640" height="360" src="https://www.youtube.com/embed/HGpuFmBAqqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,12 +28,12 @@ I wouldn't want to mount it on my lid, it'd see more but it's a bit bulky and he
 
 It takes _alright_ still photos as well.
 
-[![Gopro photo of Axe Edge, Derbyshire](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro.png)](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_fs.png)
+[![Gopro photo of Axe Edge, Derbyshire](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro.jpeg)](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_fs.jpeg)
 
 And individual frames of video don't show too many compression artifacts.
 
-[![Still frame from GoPro video of Axe Edge, Derbyshire](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still.png)](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still_fs.png)
+[![Still frame from GoPro video of Axe Edge, Derbyshire](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still.jpeg)](/assets/img/posts/2019-09-27-boring-cycling-videos/axe_edge_gopro_still_fs.jpeg)
 
 ---
 
-Anyway, recently I've been re-editing the videos I have compiled from previous rides down to 5 minutes or less _(less minutes, less boring)_ and sticking them on youtube. You can see the results [here ↗](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg).
+Anyway, recently I've been re-editing the videos I have compiled from previous rides down to 5 minutes or less _(less minutes, less boring)_ and sticking them on youtube. You can see the results [here](https://www.youtube.com/channel/UCIBF_vjZRcAmMdVKIFFIXDg).

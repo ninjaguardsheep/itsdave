@@ -1,9 +1,9 @@
 :root {
     --bg-color: #292a2d;
-    --header-color: #a9a9b3;
-    --color: #a9a9b3;
-    --link-color: #818cab;
-    --accent-color: #ff8000;
+    --header-color: #D2D2D2;
+    --color: #D2D2D2;
+    --link-color: #C1CCEA;
+    --accent-color: #ffa000;
 }
 /* Inter font, fall back to web safe sans-serif font if the browser doesn't support woff2 */
 @font-face {
@@ -108,25 +108,6 @@ footer p {
 }
 .pp {
     margin: 0 0 2em 0;
-    display: flex;
-    align-items: center;
-}
-.pp_flex_left {
-    flex-grow: 2;
-}
-.pp_flex_right {
-    flex-grow: 1;
-    padding: auto;
-}
-.pp_img_round {
-    width: 128px;
-    border: 2px solid var(--color);
-    border-radius: 100%;
-    margin: 0 0 0 auto;
-}
-.pp_link {
-    color: var(--accent-color);
-    font-weight: bold;
 }
 .img_round {
     width: 360px;

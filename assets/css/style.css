@@ -196,10 +196,8 @@ footer p {
     .pp_img_round {
         display: none;
     }
-}
-@media only screen and (max-width: 24.5em) {
     .img_round {
-        width: 100%;
+        width: 54vw;
     }
 }
 

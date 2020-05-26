@@ -1,2 +1,2 @@
 <h2>{{ page.title }}</h2>
-<p><time datetime="{{ page.published_date | date: "%F" }}">{{ page.published_date | date: "%b %d, %Y" }}</time> | {% include _reading_time.liquid %} | Category: {% for tag in page.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a>{%- endfor -%}</p>
+<p><time datetime="{{ page.published_date | date: "%F" }}">{{ page.published_date | date: "%b %d, %Y" }}</time> |  Category: {% for tag in page.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a>{%- endfor -%}</p>

@@ -1,10 +1,10 @@
-<div id="bottom_navigation">
+<div id="navigation">
 <hr>
 <nav>
 <ul>
-<li>{%- if page.previous -%}<a href="/{{ page.previous.permalink }}">← {{ page.previous.title }}</a>{%- endif -%}</li>
-<li><a href="/">{%- if page.title == "itsdave!" -%}Top{%- else -%}Home{%- endif -%}</a></li>
-<li>{%- if page.next -%}<a href="/{{ page.next.permalink }}">{{ page.next.title }} →</a>{%- endif -%}</li>
+<li>{%- if page.title == "itsdave!" -%}<a href="#top">Top{%- else -%}<a href="/">Home{%- endif -%}</a></li>
+<li><a href="/rss.xml">RSS</a></li>
+<li><a href="mailto:dave@dnhome.uk">Email</a>
 </ul>
 </nav>
 </div>

@@ -1,6 +1,0 @@
-<section class="pp">
-<h2>{{ post.title }}</h2>
-<p><time datetime="{{ post.published_date | date: "%F" }}">{{ post.published_date | date: "%b %d, %Y" }}</time> | Category: {% for tag in post.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a>{%- endfor -%}</p>
-<p>{{ post.description }}</p>
-<a class="pp_link" href="/{{post.permalink}}">Read more →</a>
-</section>

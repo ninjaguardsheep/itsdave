@@ -14,7 +14,7 @@ But, having read up on this new breed of tubless clincher tyres the system seems
 
 ---
 
-### Tube-what?
+## Tube-what?
 
 In case you are as clueless about tubeless as I was about a month ago, traditional tubeless setups have used _tubular_ tyres. Basically an inner tube with integrated tread that has to be _glued on to the rim_ and sounds like a right faff if you have a problem with it in the field.
 
@@ -24,7 +24,7 @@ The tyre bead and the bead locks on the rim differ in design slightly from stand
 
 ---
 
-### Kit
+## Kit
 
 I got me:
 
@@ -36,7 +36,7 @@ I got me:
 
 ---
 
-### Setup
+## Setup
 
 The Hunt wheels I bought came pre-taped, and I was able to mount the Clement Strada tyres with just my thumbs and some swearing.
 

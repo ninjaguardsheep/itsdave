@@ -2,7 +2,18 @@
 title: itsdave!
 layout: default.liquid
 ---
-
+<section>
+<h1>itsdave!</h1>
+<p>Hi, I'm Dave, this is my blog.</p>
+<img class="img_round" src="/assets/img/about.png" />
+<p>It's mainly going to be stuff about cycling, computers and cats. So, if none of those things float your boat, maybe do something else with your afternoon.</p>
+<hr>
+</section>
+<section>
+<h2>Content!</h2>
+<nav>
 {%- for post in collections.posts.pages -%}
-  {% include "_post_preview.liquid" %}
+<p><time datetime="{{ post.published_date | date: "%F" }}">{{ post.published_date | date: "%b %d, %Y ▶ " }}</time><a href="/{{post.permalink}}"><strong>{{ post.title }}</strong></a></p>
 {%- endfor -%}
+</nav>
+</section>

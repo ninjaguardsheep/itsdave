@@ -87,7 +87,7 @@ time {
     font-family: "Lucida Console", Monaco, monospace;
 }
 footer {
-    background-color: var(--background-color);
+    background-color: var(--bg-color);
     position: fixed;
     bottom: 0;
     padding: 0.25em 0.5em;
@@ -114,7 +114,7 @@ footer p {
     margin: auto;
 }
 #navigation {
-    padding: 0 0 4em 0;
+    padding: 0 0 5em 0;
 }
 #navigation ul {
     padding: 0;
@@ -144,4 +144,3 @@ footer p {
         width: 54vw;
     }
 }
-
